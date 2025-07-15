@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Laavvya Tanotra (aka LAVYA255)
 
-<!--
-**LAVYA255/LAVYA255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate **Frontend Developer** who’s diving deep into **Backend Development** too!  
+🎯 I love building clean, fast, and modern web apps with a creative twist.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🔭 Currently learning **Node.js** for backend development  
+- 💻 Skilled in **React**, **JavaScript**, **TypeScript**, and frontend UI/UX  
+- 📊 Familiar with **SQL**, **Pandas**, and **Seaborn** for data analysis  
+- 🧠 Also exploring Operating System concepts and inter-process communication  
+- 🎨 I enjoy combining tech with fun — from web tools to creative fest ideas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- 🌐 Frontend: `React`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `TailwindCSS`
+- 🧠 Backend: `Node.js`, `Express.js`, `REST APIs`
+- 📊 Data: `SQL`, `Pandas`, `Seaborn`
+- 🛠️ Tools: `Git`, `VS Code`, `Postman`, `Figma`
+
+## 📈 GitHub Stats
+![Laavvya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LAVYA255&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAVYA255&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+- 🧑‍💼 LinkedIn: [Your LinkedIn Profile]
+- 🌍 Portfolio: [Your Portfolio URL]
+- 📧 Email: [Optional]
