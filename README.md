@@ -16,11 +16,7 @@
 - 📊 Data: `SQL`, `Pandas`, `Seaborn`
 - 🛠️ Tools: `Git`, `VS Code`, `Postman`, `Figma`
 
-## 📈 GitHub Stats
-![Laavvya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LAVYA255&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAVYA255&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-- 🧑‍💼 LinkedIn: [Your LinkedIn Profile]
-- 🌍 Portfolio: [Your Portfolio URL]
-- 📧 Email: [Optional]
+- 🧑‍💼 LinkedIn: https://www.linkedin.com/in/lavya-tanotra-50510a235/
+- 📧 Email: lavtanotra@gmail.com
