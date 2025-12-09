@@ -11,7 +11,7 @@
 - 🎨 I enjoy combining tech with fun — from web tools to creative fest ideas!
 
 ## 🛠️ Tech Stack
-- 🌐 Frontend: `React`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `TailwindCSS`
+- 🌐 Frontend: `React`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `TailwindCSS`,`next`,`Springboot`,`java`
 - 🧠 Backend: `Node.js`, `Express.js`, `REST APIs`
 - 📊 Data: `SQL`, `Pandas`, `Seaborn`
 - 🛠️ Tools: `Git`, `VS Code`, `Postman`, `Figma`
