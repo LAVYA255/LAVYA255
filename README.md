@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Laavvya Tanotra (aka LAVYA255)
+# 👋 Hi there, I'm Laavvya Tanotra 
 
 🚀 A passionate **Frontend Developer** who’s diving deep into **Backend Development** too!  
 🎯 I love building clean, fast, and modern web apps with a creative twist.
@@ -11,8 +11,8 @@
 - 🎨 I enjoy combining tech with fun — from web tools to creative fest ideas!
 
 ## 🛠️ Tech Stack
-- 🌐 Frontend: `React`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `TailwindCSS`,`next`,`Springboot`,`java`
-- 🧠 Backend: `Node.js`, `Express.js`, `REST APIs`
+- 🌐 Frontend: `React`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `TailwindCSS`,`next`,`Springboot`,`java`, `nextJS`
+- 🧠 Backend: `Node.js`, `Express.js`, `REST APIs`, `FastAPI`
 - 📊 Data: `SQL`, `Pandas`, `Seaborn`
 - 🛠️ Tools: `Git`, `VS Code`, `Postman`, `Figma`
 
