@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" width="760" height="430" role="img" aria-label="Lavya Tanotra — AI Product Engineer. Product and Tech Intern at Krafton. Flagships: field-agent, torque, hola-voicemail. Stack: TypeScript, Python, Next.js, FastAPI, Redis.">
+  <defs>
+    <style>
+      text { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15.5px; }
+      .muted { fill: #8b949e; }
+      .cmd   { fill: #e6edf3; }
+      .p     { fill: #7ee787; }
+      .name  { fill: #58a6ff; font-weight: 600; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a0d12"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="26" y="66" width="0" height="26"><animate attributeName="width" from="0" to="716" begin="0.20s" dur="0.55s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="26" y="134" width="0" height="26"><animate attributeName="width" from="0" to="716" begin="1.25s" dur="0.60s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="26" y="224" width="0" height="26"><animate attributeName="width" from="0" to="716" begin="2.55s" dur="0.60s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="26" y="292" width="0" height="26"><animate attributeName="width" from="0" to="716" begin="3.75s" dur="0.55s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="758" height="428" rx="12" fill="url(#bg)" stroke="#30363d"/>
+  <!-- title bar -->
+  <path d="M1 13 A12 12 0 0 1 13 1 H747 A12 12 0 0 1 759 13 V44 H1 Z" fill="#161b22"/>
+  <line x1="1" y1="44" x2="759" y2="44" stroke="#30363d"/>
+  <circle cx="26" cy="22" r="6.5" fill="#ff5f56"/>
+  <circle cx="48" cy="22" r="6.5" fill="#ffbd2e"/>
+  <circle cx="70" cy="22" r="6.5" fill="#27c93f"/>
+  <text x="380" y="27" text-anchor="middle" class="muted" style="font-size:13px">lavya@github: ~/portfolio</text>
+
+  <!-- $ whoami -->
+  <g clip-path="url(#c1)">
+    <text x="28" y="84"><tspan class="p">$</tspan><tspan class="cmd"> whoami</tspan></text>
+  </g>
+  <text x="28" y="112" opacity="0"><tspan class="name">Lavya Tanotra</tspan><tspan class="muted"> — AI Product Engineer · CS @ BITS '27 · Bengaluru</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.30s" fill="freeze"/>
+  </text>
+
+  <!-- $ cat role.txt -->
+  <g clip-path="url(#c2)">
+    <text x="28" y="152"><tspan class="p">$</tspan><tspan class="cmd"> cat role.txt</tspan></text>
+  </g>
+  <text x="28" y="180" class="cmd" opacity="0">Product &amp; Tech Intern @ Krafton — helped build Swag.gg
+    <animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="28" y="202" class="muted" opacity="0">ex-Farfield.dev (under ex-Unacademy CTO) · ex-Hola AI (voice agents)
+    <animate attributeName="opacity" from="0" to="1" begin="2.15s" dur="0.25s" fill="freeze"/>
+  </text>
+
+  <!-- $ ls ~/flagships -->
+  <g clip-path="url(#c3)">
+    <text x="28" y="242"><tspan class="p">$</tspan><tspan class="cmd"> ls ~/flagships</tspan></text>
+  </g>
+  <text x="28" y="270" opacity="0">
+    <tspan fill="#58a6ff">field-agent</tspan><tspan class="muted">   </tspan><tspan fill="#d2a8ff">torque</tspan><tspan class="muted">   </tspan><tspan fill="#7ee787">hola-voicemail</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="3.25s" dur="0.30s" fill="freeze"/>
+  </text>
+
+  <!-- $ echo $STACK -->
+  <g clip-path="url(#c4)">
+    <text x="28" y="310"><tspan class="p">$</tspan><tspan class="cmd"> echo $STACK</tspan></text>
+  </g>
+  <text x="28" y="338" opacity="0">
+    <tspan class="cmd">TypeScript</tspan><tspan class="muted"> · </tspan><tspan class="cmd">Python</tspan><tspan class="muted"> · </tspan><tspan class="cmd">Next.js</tspan><tspan class="muted"> · </tspan><tspan class="cmd">FastAPI</tspan><tspan class="muted"> · </tspan><tspan class="cmd">Redis</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="4.40s" dur="0.30s" fill="freeze"/>
+  </text>
+
+  <!-- final prompt + blinking caret -->
+  <text x="28" y="384" opacity="0"><tspan class="p">$</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="4.80s" dur="0.20s" fill="freeze"/>
+  </text>
+  <rect x="42" y="371" width="9" height="16" fill="#7ee787" opacity="0">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.05s" begin="5.0s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+</svg>
