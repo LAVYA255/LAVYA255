@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 46" width="240" height="46" role="img" aria-label="LIVE DEMO">
+<defs><style>text{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.hd{fill:#6E6E76;font-size:11px;letter-spacing:.22em}.sm{fill:#6E6E76;font-size:10.5px}.lb{fill:#EDEDF0;font-size:12.5px;font-weight:700;letter-spacing:.06em}</style><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#FFFFFF" opacity=".028"/></pattern></defs>
+<rect width="240" height="46" fill="#08080A"/>
+<rect x="2" y="2" width="236" height="42" fill="#101014" stroke="#00A651" stroke-width="2"/>
+<rect x="2" y="2" width="6" height="42" fill="#00A651"/>
+<text x="124" y="28" text-anchor="middle" style="font-size:12px;font-weight:700;letter-spacing:.2em;fill:#EDEDF0">LIVE DEMO</text>
+<rect width="240" height="46" fill="url(#scan)"/>
+</svg>

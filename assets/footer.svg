@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 88" width="900" height="88" role="img" aria-label="Currently Product and Tech Intern at Krafton. Open to SDE, FDE and Product roles.">
+<defs><style>text{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.hd{fill:#6E6E76;font-size:11px;letter-spacing:.22em}.sm{fill:#6E6E76;font-size:10.5px}</style><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#FFFFFF" opacity=".028"/></pattern></defs>
+<rect width="900" height="88" fill="#08080A"/>
+<rect x="28" y="10" width="844" height="2" fill="#2A2A32"/>
+<text x="28" y="42" class="hd" style="fill:#00A651">CURRENTLY</text>
+<text x="150" y="42" style="font-size:12px;fill:#EDEDF0">Product &amp; Tech Intern @ Krafton — helped build Swag.gg</text>
+<text x="28" y="68" class="hd" style="fill:#C99A11">CONTINUE?</text>
+<text x="150" y="68" style="font-size:12px;fill:#EDEDF0">Open to SDE · FDE · Product roles<animate attributeName="opacity" values="1;1;.35;1" keyTimes="0;.55;.75;1" dur="2.2s" repeatCount="indefinite"/></text>
+<rect width="900" height="88" fill="url(#scan)"/>
+</svg>

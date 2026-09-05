@@ -1,40 +1,38 @@
 <p align="center">
-  <img src="./terminal.svg" alt="Lavya Tanotra — AI Product Engineer" width="760">
+  <img src="./assets/hero.svg" alt="Lavya Tanotra — AI Product Engineer" width="100%">
 </p>
 
 <p align="center">
-  <a href="mailto:lavtanotra@gmail.com"><img src="https://img.shields.io/badge/Email-08080A?style=for-the-badge&logo=gmail&logoColor=D8231C&labelColor=08080A" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/lavya-tanotra-50510a235/"><img src="https://img.shields.io/badge/LinkedIn-08080A?style=for-the-badge&logo=linkedin&logoColor=2E86DE&labelColor=08080A" alt="LinkedIn"></a>
-  <a href="https://holavoicemail.com"><img src="https://img.shields.io/badge/Live_Demo-08080A?style=for-the-badge&logo=rocket&logoColor=00A651&labelColor=08080A" alt="Live Demo"></a>
+  <a href="mailto:lavtanotra@gmail.com"><img src="./assets/btn-email.svg" alt="Email" width="230"></a>
+  <a href="https://www.linkedin.com/in/lavya-tanotra-50510a235/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" width="230"></a>
+  <a href="https://holavoicemail.com"><img src="./assets/btn-demo.svg" alt="Live demo" width="230"></a>
 </p>
 
-## 🚀 Flagships
-
-| Project | What it is | Highlights |
-|---|---|---|
-| **[field-agent](https://github.com/LAVYA255/field-agent)**<br><sub>`FDE` · RAG · evals</sub> | Enterprise AI support-agent deployment kit — a RAG-grounded Claude agent with deterministic guardrails and an **eval harness that scores every change in CI** | `14/15 eval` · `CI-gated` · $0 guardrail escalation |
-| **[torque](https://github.com/LAVYA255/torque)**<br><sub>`SDE` · systems</sub> | Distributed job queue for Node/TS — retries + backoff, dead-letter queue, visibility timeouts, crash recovery | `~1.2M jobs/s` · in-mem + Redis · 90% cov |
-| **[hola-voicemail](https://github.com/LAVYA255/hola-voicemail)**<br><sub>`AI` · voice</sub> | Real-time AI voice assistant that answers, screens & transcribes calls in a natural voice | `live MVP` · GPT + ElevenLabs · WebSocket |
-| **[adaptive-book-learning](https://github.com/LAVYA255/adaptive-book-learning)**<br><sub>`AI` · full-stack</sub> | Turns any book into a personalized course — Claude builds a knowledge graph, then teaches & grades you | knowledge graph · spaced revision |
-
-<sub>More → [docuquery-rag](https://github.com/LAVYA255/docuquery-rag) (RAG) · [typeahead-search](https://github.com/LAVYA255/typeahead-search) (consistent hashing + WAL) · [Drishti](https://github.com/LAVYA255/Drishti) (accessibility AI, iQOO Hackathon) · [lld-playground](https://github.com/LAVYA255/lld-playground) (system design)</sub>
-
-## ⚡ How I work
-
-I build and ship LLM-powered products end to end — voice agents, RAG systems, and agentic workflows (Claude Code, Codex) — plus the unglamorous parts that make them real: **evals, latency budgets, and human-handoff design.**
-
-<p align="center"><img src="./assets/pipeline.svg" alt="Request path: ingest, retrieve, guardrail, generate, eval gate — with a human-handoff branch off the guardrail" width="760"></p>
-
-## 📊 Shipped numbers
-
-<p align="center"><img src="./assets/metrics.svg" alt="1.2M jobs/s throughput, 14/15 eval score, 90% coverage, 97 public repos" width="760"></p>
-
-## 🚀 Contribution playground
-
-<p align="center"><img src="./assets/shooter.svg" alt="A ship clearing a year of contributions, 304 commits across 53 weeks" width="760"></p>
-
-<p align="center"><img src="./assets/stack.svg" alt="Stack: TypeScript · Python · Next.js · FastAPI · Node.js · PostgreSQL · Redis" width="712"></p>
+<p align="center">
+  <a href="https://github.com/LAVYA255/field-agent"><img src="./assets/card-field-agent.svg" alt="field-agent — enterprise AI support-agent kit with a CI-gated eval harness" width="430"></a>
+  <a href="https://github.com/LAVYA255/torque"><img src="./assets/card-torque.svg" alt="torque — distributed job queue for Node/TS" width="430"></a>
+  <a href="https://github.com/LAVYA255/hola-voicemail"><img src="./assets/card-hola-voicemail.svg" alt="hola-voicemail — real-time AI voice assistant" width="430"></a>
+  <a href="https://github.com/LAVYA255/adaptive-book-learning"><img src="./assets/card-adaptive-book-learning.svg" alt="adaptive-book-learning — turns any book into a personalized course" width="430"></a>
+</p>
 
 <p align="center">
-  <sub>Currently <b>Product &amp; Tech Intern @ Krafton</b> — helped build <a href="https://swag.gg">Swag.gg</a>.&nbsp;&nbsp;Open to <b>SDE · FDE · Product</b> roles.</sub>
+  <sub>
+    <a href="https://github.com/LAVYA255/relay">relay</a> ·
+    <a href="https://github.com/LAVYA255/docuquery-rag">docuquery-rag</a> ·
+    <a href="https://github.com/LAVYA255/typeahead-search">typeahead-search</a> ·
+    <a href="https://github.com/LAVYA255/Drishti">Drishti</a> ·
+    <a href="https://github.com/LAVYA255/lld-playground">lld-playground</a>
+  </sub>
+</p>
+
+<p align="center">
+  <img src="./assets/stage.svg" alt="Stage 01 — request path: ingest, retrieve, guardrail, generate, eval gate. High scores: 1.2M jobs/s, 14/15 eval, 90% coverage, 97 public repos" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/shooter.svg" alt="Bonus round — a ship flies right to left and a year of contributions spawns in its wake" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" alt="Currently Product & Tech Intern @ Krafton. Open to SDE · FDE · Product roles." width="100%">
 </p>

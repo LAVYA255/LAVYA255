@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 436 158" width="436" height="158" role="img" aria-label="field-agent: Enterprise AI support-agent kit. RAG-grounded">
+<defs><style>text{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.hd{fill:#6E6E76;font-size:11px;letter-spacing:.22em}.sm{fill:#6E6E76;font-size:10.5px}.lb{fill:#EDEDF0;font-size:12.5px;font-weight:700;letter-spacing:.06em}</style><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#FFFFFF" opacity=".028"/></pattern></defs>
+<rect width="436" height="158" fill="#08080A"/>
+<rect x="1" y="1" width="434" height="156" fill="#101014" stroke="#D8231C" stroke-width="2"/>
+<rect x="1" y="1" width="434" height="5" fill="#D8231C"/>
+<text x="20" y="36" style="font-size:15px;font-weight:700;letter-spacing:.04em;fill:#EDEDF0">field-agent</text>
+<text x="20" y="54" style="font-size:9.5px;letter-spacing:.18em;fill:#D8231C">FDE · RAG · EVALS</text>
+<text x="20" y="78" class="sm">Enterprise AI support-agent kit. RAG-grounded</text>
+<text x="20" y="94" class="sm">Claude agent, deterministic guardrails, and an</text>
+<text x="20" y="110" class="sm">eval harness that gates every change in CI.</text>
+<rect x="20" y="124" width="76" height="18" fill="#08080A" stroke="#2A2A32"/>
+<text x="58" y="137" text-anchor="middle" style="font-size:8.5px;letter-spacing:.1em;fill:#6E6E76">14/15 EVAL</text>
+<rect x="104.0" y="124" width="64" height="18" fill="#08080A" stroke="#2A2A32"/>
+<text x="136" y="137" text-anchor="middle" style="font-size:8.5px;letter-spacing:.1em;fill:#6E6E76">CI-GATED</text>
+<rect x="176.0" y="124" width="94" height="18" fill="#08080A" stroke="#2A2A32"/>
+<text x="223" y="137" text-anchor="middle" style="font-size:8.5px;letter-spacing:.1em;fill:#6E6E76">$0 ESCALATION</text>
+<text x="416" y="36" text-anchor="end" style="font-size:10px;letter-spacing:.16em;fill:#D8231C">▸ PLAY</text>
+<rect width="436" height="158" fill="url(#scan)"/>
+</svg>
