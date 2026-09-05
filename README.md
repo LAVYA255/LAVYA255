@@ -46,6 +46,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/versus.svg" alt="Boss fight — Lavya vs prod bugs, with draining health bars" width="100%">
+</p>
+
+<p align="center">
   <img src="./assets/shooter.svg" alt="Bonus round — a ship flies right to left and a year of contributions spawns in its wake" width="100%">
 </p>
 
