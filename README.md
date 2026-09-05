@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lavtanotra@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/lavya-tanotra-50510a235/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"></a>
-  <a href="https://holavoicemail.com"><img src="https://img.shields.io/badge/Live_Demo-161b22?style=for-the-badge&logo=rocket&logoColor=7ee787" alt="Live Demo"></a>
+  <a href="mailto:lavtanotra@gmail.com"><img src="https://img.shields.io/badge/Email-08080A?style=for-the-badge&logo=gmail&logoColor=D8231C&labelColor=08080A" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/lavya-tanotra-50510a235/"><img src="https://img.shields.io/badge/LinkedIn-08080A?style=for-the-badge&logo=linkedin&logoColor=2E86DE&labelColor=08080A" alt="LinkedIn"></a>
+  <a href="https://holavoicemail.com"><img src="https://img.shields.io/badge/Live_Demo-08080A?style=for-the-badge&logo=rocket&logoColor=00A651&labelColor=08080A" alt="Live Demo"></a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="760"></p>
@@ -26,6 +26,20 @@
 ## ⚡ How I work
 
 I build and ship LLM-powered products end to end — voice agents, RAG systems, and agentic workflows (Claude Code, Codex) — plus the unglamorous parts that make them real: **evals, latency budgets, and human-handoff design.**
+
+<p align="center"><img src="./assets/pipeline.svg" alt="Request path: ingest, retrieve, guardrail, generate, eval gate — with a human-handoff branch off the guardrail" width="760"></p>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="760"></p>
+
+## 📊 Shipped numbers
+
+<p align="center"><img src="./assets/metrics.svg" alt="1.2M jobs/s throughput, 14/15 eval score, 90% coverage, 97 public repos" width="760"></p>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="760"></p>
+
+## 🚀 Contribution playground
+
+<p align="center"><img src="./assets/shooter.svg" alt="A ship clearing a year of contributions, 304 commits across 53 weeks" width="760"></p>
 
 <p align="center"><img src="./assets/stack.svg" alt="Stack: TypeScript · Python · Next.js · FastAPI · Node.js · PostgreSQL · Redis" width="712"></p>
 

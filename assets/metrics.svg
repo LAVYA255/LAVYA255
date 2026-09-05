@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 132" width="760" height="132" role="img" aria-label="1.2M jobs per second, 14 of 15 eval score, 90 percent coverage, 97 public repos.">
+<defs><style>text{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.k{fill:#6E6E76;font-size:10px;letter-spacing:.16em}.v{fill:#EDEDF0;font-size:27px;font-weight:700;letter-spacing:-.01em}.u{fill:#6E6E76;font-size:10.5px}</style></defs>
+<rect width="760" height="132" rx="12" fill="#08080A"/>
+<rect x="14.5" y="14.5" width="173" height="103" rx="10" fill="#101014" stroke="#26262C"/>
+<text x="32" y="40" class="k">THROUGHPUT</text>
+<g opacity="1"><text x="32" y="74" class="v">1.2M</text><text x="103" y="74" class="u">jobs/s</text><animate attributeName="opacity" from="0" to="1" begin=".25s" dur=".35s" fill="freeze"/></g>
+<rect x="32" y="90" width="141" height="4" rx="2" fill="#26262C"/>
+<rect x="32" y="90" width="131" height="4" rx="2" fill="#0057B8"><animate attributeName="width" from="0" to="131" begin=".25s" dur=".9s" fill="freeze"/></rect>
+<text x="32" y="110" class="u">torque · in-mem + redis</text>
+<rect x="200.5" y="14.5" width="173" height="103" rx="10" fill="#101014" stroke="#26262C"/>
+<text x="218" y="40" class="k">EVAL SCORE</text>
+<g opacity="1"><text x="218" y="74" class="v">14/15</text><animate attributeName="opacity" from="0" to="1" begin=".45s" dur=".35s" fill="freeze"/></g>
+<rect x="218" y="90" width="141" height="4" rx="2" fill="#26262C"/>
+<rect x="218" y="90" width="132" height="4" rx="2" fill="#00A651"><animate attributeName="width" from="0" to="132" begin=".45s" dur=".9s" fill="freeze"/></rect>
+<text x="218" y="110" class="u">field-agent · gated in CI</text>
+<rect x="386.5" y="14.5" width="173" height="103" rx="10" fill="#101014" stroke="#26262C"/>
+<text x="404" y="40" class="k">COVERAGE</text>
+<g opacity="1"><text x="404" y="74" class="v">90</text><text x="440" y="74" class="u">%</text><animate attributeName="opacity" from="0" to="1" begin=".65s" dur=".35s" fill="freeze"/></g>
+<rect x="404" y="90" width="141" height="4" rx="2" fill="#26262C"/>
+<rect x="404" y="90" width="127" height="4" rx="2" fill="#C99A11"><animate attributeName="width" from="0" to="127" begin=".65s" dur=".9s" fill="freeze"/></rect>
+<text x="404" y="110" class="u">tests that actually run</text>
+<rect x="572.5" y="14.5" width="173" height="103" rx="10" fill="#101014" stroke="#26262C"/>
+<text x="590" y="40" class="k">PUBLIC REPOS</text>
+<g opacity="1"><text x="590" y="74" class="v">97</text><animate attributeName="opacity" from="0" to="1" begin=".85s" dur=".35s" fill="freeze"/></g>
+<rect x="590" y="90" width="141" height="4" rx="2" fill="#26262C"/>
+<rect x="590" y="90" width="99" height="4" rx="2" fill="#D8231C"><animate attributeName="width" from="0" to="99" begin=".85s" dur=".9s" fill="freeze"/></rect>
+<text x="590" y="110" class="u">shipped, not starred</text>
+</svg>
