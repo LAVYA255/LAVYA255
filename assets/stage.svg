@@ -1,62 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-label="Stage 01 request path: ingest, retrieve, guardrail, generate, eval gate, with a human handoff branch. High scores below.">
-<defs><style>text{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.hd{fill:#6E6E76;font-size:11px;letter-spacing:.22em}.sm{fill:#6E6E76;font-size:10.5px}</style><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#FFFFFF" opacity=".028"/></pattern></defs>
-<rect width="900" height="400" fill="#08080A"/>
-<text x="28" y="30" class="hd" style="fill:#C99A11">STAGE 01</text>
+<defs><style>text{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.hd{fill:#7A7A8C;font-size:11px;letter-spacing:.22em}.sm{fill:#7A7A8C;font-size:10.5px}</style><filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="bloom" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse"><rect width="3" height="1.5" fill="#FFFFFF" opacity=".045"/></pattern><radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#000000" stop-opacity="0"/><stop offset="100%" stop-color="#000000" stop-opacity=".6"/></radialGradient></defs>
+<rect width="900" height="400" fill="#05050A"/>
+<text x="28" y="30" class="hd" style="fill:#FFB000" filter="url(#glow)">STAGE 01</text>
 <text x="872" y="30" class="hd" text-anchor="end">REQUEST PATH</text>
-<rect x="28" y="42" width="844" height="2" fill="#2A2A32"/>
-<line x1="73" y1="138" x2="827" y2="138" stroke="#2A2A32" stroke-width="2" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.4s" repeatCount="indefinite"/></line>
-<path d="M450 128 V138" stroke="#2A2A32" stroke-width="2" fill="none"/>
-<rect x="73" y="80" width="130" height="48" fill="#101014" stroke="#2A2A32" stroke-width="2"><animate attributeName="stroke" values="#2A2A32;#2A2A32;#0057B8;#0057B8;#2A2A32;#2A2A32" keyTimes="0;.05;.07;.14;.16;1" dur="7s" repeatCount="indefinite"/></rect>
-<text x="138" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#EDEDF0">INGEST</text>
+<rect x="28" y="42" width="844" height="2" fill="#2A2A3A"/>
+<line x1="73" y1="138" x2="827" y2="138" stroke="#2A2A3A" stroke-width="2" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.4s" repeatCount="indefinite"/></line>
+<path d="M450 128 V138" stroke="#2A2A3A" stroke-width="2" fill="none"/>
+<rect x="73" y="80" width="130" height="48" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2" filter="url(#glow)"><animate attributeName="stroke" values="#2A2A3A;#2A2A3A;#22E8FF;#22E8FF;#2A2A3A;#2A2A3A" keyTimes="0;.05;.07;.14;.16;1" dur="7s" repeatCount="indefinite"/></rect>
+<text x="138" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#F0F0F5">INGEST</text>
 <text x="138" y="119" text-anchor="middle" class="sm">voice · text</text>
-<rect x="229" y="80" width="130" height="48" fill="#101014" stroke="#2A2A32" stroke-width="2"><animate attributeName="stroke" values="#2A2A32;#2A2A32;#0057B8;#0057B8;#2A2A32;#2A2A32" keyTimes="0;.21;.23;.30;.32;1" dur="7s" repeatCount="indefinite"/></rect>
-<text x="294" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#EDEDF0">RETRIEVE</text>
+<rect x="229" y="80" width="130" height="48" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2" filter="url(#glow)"><animate attributeName="stroke" values="#2A2A3A;#2A2A3A;#22E8FF;#22E8FF;#2A2A3A;#2A2A3A" keyTimes="0;.21;.23;.30;.32;1" dur="7s" repeatCount="indefinite"/></rect>
+<text x="294" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#F0F0F5">RETRIEVE</text>
 <text x="294" y="119" text-anchor="middle" class="sm">rag · rerank</text>
-<rect x="385" y="80" width="130" height="48" fill="#101014" stroke="#2A2A32" stroke-width="2"><animate attributeName="stroke" values="#2A2A32;#2A2A32;#C99A11;#C99A11;#2A2A32;#2A2A32" keyTimes="0;.37;.39;.46;.48;1" dur="7s" repeatCount="indefinite"/></rect>
-<text x="450" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#EDEDF0">GUARDRAIL</text>
+<rect x="385" y="80" width="130" height="48" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2" filter="url(#glow)"><animate attributeName="stroke" values="#2A2A3A;#2A2A3A;#FFB000;#FFB000;#2A2A3A;#2A2A3A" keyTimes="0;.37;.39;.46;.48;1" dur="7s" repeatCount="indefinite"/></rect>
+<text x="450" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#F0F0F5">GUARDRAIL</text>
 <text x="450" y="119" text-anchor="middle" class="sm">deterministic</text>
-<rect x="541" y="80" width="130" height="48" fill="#101014" stroke="#2A2A32" stroke-width="2"><animate attributeName="stroke" values="#2A2A32;#2A2A32;#0057B8;#0057B8;#2A2A32;#2A2A32" keyTimes="0;.53;.55;.62;.64;1" dur="7s" repeatCount="indefinite"/></rect>
-<text x="606" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#EDEDF0">GENERATE</text>
+<rect x="541" y="80" width="130" height="48" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2" filter="url(#glow)"><animate attributeName="stroke" values="#2A2A3A;#2A2A3A;#22E8FF;#22E8FF;#2A2A3A;#2A2A3A" keyTimes="0;.53;.55;.62;.64;1" dur="7s" repeatCount="indefinite"/></rect>
+<text x="606" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#F0F0F5">GENERATE</text>
 <text x="606" y="119" text-anchor="middle" class="sm">claude</text>
-<rect x="697" y="80" width="130" height="48" fill="#101014" stroke="#2A2A32" stroke-width="2"><animate attributeName="stroke" values="#2A2A32;#2A2A32;#00A651;#00A651;#2A2A32;#2A2A32" keyTimes="0;.69;.71;.80;.82;1" dur="7s" repeatCount="indefinite"/></rect>
-<text x="762" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#EDEDF0">EVAL GATE</text>
+<rect x="697" y="80" width="130" height="48" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2" filter="url(#glow)"><animate attributeName="stroke" values="#2A2A3A;#2A2A3A;#6BFF4A;#6BFF4A;#2A2A3A;#2A2A3A" keyTimes="0;.69;.71;.80;.82;1" dur="7s" repeatCount="indefinite"/></rect>
+<text x="762" y="103" text-anchor="middle" style="font-size:12.5px;font-weight:700;letter-spacing:.05em;fill:#F0F0F5">EVAL GATE</text>
 <text x="762" y="119" text-anchor="middle" class="sm">ci-blocking</text>
-<rect x="386" y="152" width="128" height="40" fill="#101014" stroke="#D8231C" stroke-width="2" stroke-opacity=".6"/>
-<text x="450" y="170" text-anchor="middle" style="font-size:10.5px;font-weight:700;letter-spacing:.08em;fill:#D8231C">HUMAN HANDOFF</text>
+<rect x="386" y="152" width="128" height="40" fill="#0C0C14" stroke="#FF3B30" stroke-width="2" stroke-opacity=".7" filter="url(#glow)"/>
+<text x="450" y="170" text-anchor="middle" style="font-size:10.5px;font-weight:700;letter-spacing:.08em;fill:#FF3B30">HUMAN HANDOFF</text>
 <text x="450" y="184" text-anchor="middle" class="sm">$0 escalation cost</text>
-<circle cy="138" r="9" fill="#C99A11" opacity=".22"><animate attributeName="cx" dur="7s" repeatCount="indefinite" values="73;138;138;294;294;450;450;606;606;762;762;827;827" keyTimes="0;.06;.14;.22;.30;.38;.46;.54;.62;.70;.78;.86;1"/></circle>
-<circle cy="138" r="4" fill="#C99A11"><animate attributeName="cx" dur="7s" repeatCount="indefinite" values="73;138;138;294;294;450;450;606;606;762;762;827;827" keyTimes="0;.06;.14;.22;.30;.38;.46;.54;.62;.70;.78;.86;1"/><animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.04;.86;.94"/></circle>
-<text x="762" y="70" text-anchor="middle" style="font-size:11px;font-weight:700;fill:#00A651" opacity="1">14/15 PASS<animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;.72;.78;.94;1"/></text>
-<rect x="28" y="222" width="844" height="2" fill="#2A2A32"/>
-<text x="28" y="254" class="hd" style="fill:#C99A11">HIGH SCORES</text>
+<g filter="url(#glow)"><circle cy="138" r="5" fill="#FFB000"><animate attributeName="cx" dur="7s" repeatCount="indefinite" values="73;138;138;294;294;450;450;606;606;762;762;827;827" keyTimes="0;.06;.14;.22;.30;.38;.46;.54;.62;.70;.78;.86;1"/><animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.04;.86;.94"/></circle></g>
+<text x="762" y="70" text-anchor="middle" style="font-size:11px;font-weight:700;fill:#6BFF4A" filter="url(#glow)" opacity="1">14/15 PASS<animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;.72;.78;.94;1"/></text>
+<rect x="28" y="222" width="844" height="2" fill="#2A2A3A"/>
+<text x="28" y="254" class="hd" style="fill:#FFB000" filter="url(#glow)">HIGH SCORES</text>
 <text x="872" y="254" class="hd" text-anchor="end">SHIPPED, NOT STARRED</text>
-<rect x="17" y="274" width="205" height="100" fill="#101014" stroke="#2A2A32" stroke-width="2"/>
-<rect x="17" y="274" width="205" height="4" fill="#0057B8"/>
-<text x="35" y="300" style="font-size:10px;letter-spacing:.16em;fill:#6E6E76">THROUGHPUT</text>
-<g opacity="1"><text x="35" y="332" style="font-size:28px;font-weight:700;fill:#EDEDF0">1.2M</text><text x="109" y="332" class="sm">jobs/s</text><animate attributeName="opacity" from="0" to="1" begin=".25s" dur=".35s" fill="freeze"/></g>
-<rect x="35" y="344" width="169" height="5" fill="#2A2A32"/>
-<rect x="35" y="344" width="166" height="5" fill="#0057B8"><animate attributeName="width" from="0" to="166" begin=".25s" dur=".9s" fill="freeze"/></rect>
+<rect x="17" y="274" width="205" height="100" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2"/>
+<rect x="17" y="274" width="205" height="4" fill="#22E8FF" filter="url(#glow)"/>
+<text x="35" y="300" style="font-size:10px;letter-spacing:.16em;fill:#7A7A8C">THROUGHPUT</text>
+<g opacity="1"><text x="35" y="332" style="font-size:28px;font-weight:700;fill:#F0F0F5">1.2M</text><text x="109" y="332" class="sm">jobs/s</text><animate attributeName="opacity" from="0" to="1" begin=".25s" dur=".35s" fill="freeze"/></g>
+<rect x="35" y="344" width="169" height="5" fill="#2A2A3A"/>
+<g filter="url(#glow)"><rect x="35" y="344" width="166" height="5" fill="#22E8FF"><animate attributeName="width" from="0" to="166" begin=".25s" dur=".9s" fill="freeze"/></rect></g>
 <text x="35" y="365" class="sm">torque · in-mem + redis</text>
-<rect x="237" y="274" width="205" height="100" fill="#101014" stroke="#2A2A32" stroke-width="2"/>
-<rect x="237" y="274" width="205" height="4" fill="#00A651"/>
-<text x="255" y="300" style="font-size:10px;letter-spacing:.16em;fill:#6E6E76">EVAL SCORE</text>
-<g opacity="1"><text x="255" y="332" style="font-size:28px;font-weight:700;fill:#EDEDF0">14/15</text><animate attributeName="opacity" from="0" to="1" begin=".45s" dur=".35s" fill="freeze"/></g>
-<rect x="255" y="344" width="169" height="5" fill="#2A2A32"/>
-<rect x="255" y="344" width="168" height="5" fill="#00A651"><animate attributeName="width" from="0" to="168" begin=".45s" dur=".9s" fill="freeze"/></rect>
+<rect x="237" y="274" width="205" height="100" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2"/>
+<rect x="237" y="274" width="205" height="4" fill="#6BFF4A" filter="url(#glow)"/>
+<text x="255" y="300" style="font-size:10px;letter-spacing:.16em;fill:#7A7A8C">EVAL SCORE</text>
+<g opacity="1"><text x="255" y="332" style="font-size:28px;font-weight:700;fill:#F0F0F5">14/15</text><animate attributeName="opacity" from="0" to="1" begin=".45s" dur=".35s" fill="freeze"/></g>
+<rect x="255" y="344" width="169" height="5" fill="#2A2A3A"/>
+<g filter="url(#glow)"><rect x="255" y="344" width="168" height="5" fill="#6BFF4A"><animate attributeName="width" from="0" to="168" begin=".45s" dur=".9s" fill="freeze"/></rect></g>
 <text x="255" y="365" class="sm">field-agent · gated in CI</text>
-<rect x="457" y="274" width="205" height="100" fill="#101014" stroke="#2A2A32" stroke-width="2"/>
-<rect x="457" y="274" width="205" height="4" fill="#C99A11"/>
-<text x="475" y="300" style="font-size:10px;letter-spacing:.16em;fill:#6E6E76">COVERAGE</text>
-<g opacity="1"><text x="475" y="332" style="font-size:28px;font-weight:700;fill:#EDEDF0">90</text><text x="513" y="332" class="sm">%</text><animate attributeName="opacity" from="0" to="1" begin=".65s" dur=".35s" fill="freeze"/></g>
-<rect x="475" y="344" width="169" height="5" fill="#2A2A32"/>
-<rect x="475" y="344" width="161" height="5" fill="#C99A11"><animate attributeName="width" from="0" to="161" begin=".65s" dur=".9s" fill="freeze"/></rect>
+<rect x="457" y="274" width="205" height="100" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2"/>
+<rect x="457" y="274" width="205" height="4" fill="#FFB000" filter="url(#glow)"/>
+<text x="475" y="300" style="font-size:10px;letter-spacing:.16em;fill:#7A7A8C">COVERAGE</text>
+<g opacity="1"><text x="475" y="332" style="font-size:28px;font-weight:700;fill:#F0F0F5">90</text><text x="513" y="332" class="sm">%</text><animate attributeName="opacity" from="0" to="1" begin=".65s" dur=".35s" fill="freeze"/></g>
+<rect x="475" y="344" width="169" height="5" fill="#2A2A3A"/>
+<g filter="url(#glow)"><rect x="475" y="344" width="161" height="5" fill="#FFB000"><animate attributeName="width" from="0" to="161" begin=".65s" dur=".9s" fill="freeze"/></rect></g>
 <text x="475" y="365" class="sm">tests that actually run</text>
-<rect x="677" y="274" width="205" height="100" fill="#101014" stroke="#2A2A32" stroke-width="2"/>
-<rect x="677" y="274" width="205" height="4" fill="#D8231C"/>
-<text x="695" y="300" style="font-size:10px;letter-spacing:.16em;fill:#6E6E76">PUBLIC REPOS</text>
-<g opacity="1"><text x="695" y="332" style="font-size:28px;font-weight:700;fill:#EDEDF0">97</text><animate attributeName="opacity" from="0" to="1" begin=".85s" dur=".35s" fill="freeze"/></g>
-<rect x="695" y="344" width="169" height="5" fill="#2A2A32"/>
-<rect x="695" y="344" width="126" height="5" fill="#D8231C"><animate attributeName="width" from="0" to="126" begin=".85s" dur=".9s" fill="freeze"/></rect>
+<rect x="677" y="274" width="205" height="100" fill="#0C0C14" stroke="#2A2A3A" stroke-width="2"/>
+<rect x="677" y="274" width="205" height="4" fill="#FF3EA5" filter="url(#glow)"/>
+<text x="695" y="300" style="font-size:10px;letter-spacing:.16em;fill:#7A7A8C">PUBLIC REPOS</text>
+<g opacity="1"><text x="695" y="332" style="font-size:28px;font-weight:700;fill:#F0F0F5">97</text><animate attributeName="opacity" from="0" to="1" begin=".85s" dur=".35s" fill="freeze"/></g>
+<rect x="695" y="344" width="169" height="5" fill="#2A2A3A"/>
+<g filter="url(#glow)"><rect x="695" y="344" width="126" height="5" fill="#FF3EA5"><animate attributeName="width" from="0" to="126" begin=".85s" dur=".9s" fill="freeze"/></rect></g>
 <text x="695" y="365" class="sm">and counting</text>
-<rect width="900" height="400" fill="url(#scan)"/>
+<rect width="900" height="400" fill="url(#scan)"/><rect width="900" height="400" fill="url(#vig)"/>
 </svg>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 46" width="240" height="46" role="img" aria-label="LIVE DEMO">
-<defs><style>text{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.hd{fill:#6E6E76;font-size:11px;letter-spacing:.22em}.sm{fill:#6E6E76;font-size:10.5px}.lb{fill:#EDEDF0;font-size:12.5px;font-weight:700;letter-spacing:.06em}</style><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#FFFFFF" opacity=".028"/></pattern></defs>
-<rect width="240" height="46" fill="#08080A"/>
-<rect x="2" y="2" width="236" height="42" fill="#101014" stroke="#00A651" stroke-width="2"/>
-<rect x="2" y="2" width="6" height="42" fill="#00A651"/>
-<text x="124" y="28" text-anchor="middle" style="font-size:12px;font-weight:700;letter-spacing:.2em;fill:#EDEDF0">LIVE DEMO</text>
-<rect width="240" height="46" fill="url(#scan)"/>
+<defs><style>text{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.hd{fill:#7A7A8C;font-size:11px;letter-spacing:.22em}.sm{fill:#7A7A8C;font-size:10.5px}</style><filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="bloom" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse"><rect width="3" height="1.5" fill="#FFFFFF" opacity=".045"/></pattern><radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#000000" stop-opacity="0"/><stop offset="100%" stop-color="#000000" stop-opacity=".6"/></radialGradient></defs>
+<rect width="240" height="46" fill="#05050A"/>
+<rect x="2" y="2" width="236" height="42" fill="#0C0C14" stroke="#6BFF4A" stroke-width="2" filter="url(#glow)"/>
+<rect x="2" y="2" width="6" height="42" fill="#6BFF4A" filter="url(#glow)"/>
+<text x="124" y="28" text-anchor="middle" style="font-size:12px;font-weight:700;letter-spacing:.2em;fill:#F0F0F5">LIVE DEMO</text>
+<rect width="240" height="46" fill="url(#scan)"/><rect width="240" height="46" fill="url(#vig)"/>
 </svg>
