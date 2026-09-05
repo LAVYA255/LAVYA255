@@ -8,8 +8,6 @@
   <a href="https://holavoicemail.com"><img src="https://img.shields.io/badge/Live_Demo-08080A?style=for-the-badge&logo=rocket&logoColor=00A651&labelColor=08080A" alt="Live Demo"></a>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="760"></p>
-
 ## 🚀 Flagships
 
 | Project | What it is | Highlights |
@@ -21,29 +19,21 @@
 
 <sub>More → [docuquery-rag](https://github.com/LAVYA255/docuquery-rag) (RAG) · [typeahead-search](https://github.com/LAVYA255/typeahead-search) (consistent hashing + WAL) · [Drishti](https://github.com/LAVYA255/Drishti) (accessibility AI, iQOO Hackathon) · [lld-playground](https://github.com/LAVYA255/lld-playground) (system design)</sub>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="760"></p>
-
 ## ⚡ How I work
 
 I build and ship LLM-powered products end to end — voice agents, RAG systems, and agentic workflows (Claude Code, Codex) — plus the unglamorous parts that make them real: **evals, latency budgets, and human-handoff design.**
 
 <p align="center"><img src="./assets/pipeline.svg" alt="Request path: ingest, retrieve, guardrail, generate, eval gate — with a human-handoff branch off the guardrail" width="760"></p>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="760"></p>
-
 ## 📊 Shipped numbers
 
 <p align="center"><img src="./assets/metrics.svg" alt="1.2M jobs/s throughput, 14/15 eval score, 90% coverage, 97 public repos" width="760"></p>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="760"></p>
 
 ## 🚀 Contribution playground
 
 <p align="center"><img src="./assets/shooter.svg" alt="A ship clearing a year of contributions, 304 commits across 53 weeks" width="760"></p>
 
 <p align="center"><img src="./assets/stack.svg" alt="Stack: TypeScript · Python · Next.js · FastAPI · Node.js · PostgreSQL · Redis" width="712"></p>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="760"></p>
 
 <p align="center">
   <sub>Currently <b>Product &amp; Tech Intern @ Krafton</b> — helped build <a href="https://swag.gg">Swag.gg</a>.&nbsp;&nbsp;Open to <b>SDE · FDE · Product</b> roles.</sub>
