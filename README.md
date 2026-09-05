@@ -9,11 +9,27 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LAVYA255/field-agent"><img src="./assets/card-field-agent.svg" alt="field-agent — enterprise AI support-agent kit with a CI-gated eval harness" width="430"></a>
-  <a href="https://github.com/LAVYA255/torque"><img src="./assets/card-torque.svg" alt="torque — distributed job queue for Node/TS" width="430"></a>
-  <a href="https://github.com/LAVYA255/hola-voicemail"><img src="./assets/card-hola-voicemail.svg" alt="hola-voicemail — real-time AI voice assistant" width="430"></a>
-  <a href="https://github.com/LAVYA255/adaptive-book-learning"><img src="./assets/card-adaptive-book-learning.svg" alt="adaptive-book-learning — turns any book into a personalized course" width="430"></a>
+  <img src="./assets/marquee.svg" alt="Select your stage" width="100%">
 </p>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/LAVYA255/field-agent"><img src="./assets/card-field-agent.svg" alt="field-agent — enterprise AI support-agent kit with a CI-gated eval harness" width="100%"></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/LAVYA255/torque"><img src="./assets/card-torque.svg" alt="torque — distributed job queue for Node/TS" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/LAVYA255/hola-voicemail"><img src="./assets/card-hola-voicemail.svg" alt="hola-voicemail — real-time AI voice assistant" width="100%"></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/LAVYA255/adaptive-book-learning"><img src="./assets/card-adaptive-book-learning.svg" alt="adaptive-book-learning — turns any book into a personalized course" width="100%"></a>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <sub>
