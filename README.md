@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Lavya Tanotra — AI Product Engineer" width="100%">
+  <img src="./assets/hero.svg" alt="Terminal boot — typing start loads the cabinet and brings up Lavya Tanotra, AI Product Engineer" width="100%">
 </p>
 
 <p align="center">
@@ -43,10 +43,6 @@
 
 <p align="center">
   <img src="./assets/stage.svg" alt="Stage 01 — request path: ingest, retrieve, guardrail, generate, eval gate. High scores: 1.2M jobs/s, 14/15 eval, 90% coverage, 97 public repos" width="100%">
-</p>
-
-<p align="center">
-  <img src="./assets/versus.svg" alt="Boss fight — Lavya vs prod bugs, with draining health bars" width="100%">
 </p>
 
 <p align="center">
